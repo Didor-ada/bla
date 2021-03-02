@@ -1,0 +1,44 @@
+didorada@MacBook-Pro-de-Didor documents % find planets
+planets
+planets/.DS_Store
+planets/real
+planets/real/.DS_Store
+planets/real/gas-giants
+planets/real/gas-giants/jupiter.jpeg
+planets/real/gas-giants/uranus.jpeg
+planets/real/gas-giants/neptune.jpeg
+planets/real/gas-giants/saturn.jpeg
+planets/real/terrestrial
+planets/real/terrestrial/mercury.jpeg
+planets/real/terrestrial/earth.jpeg
+planets/real/terrestrial/venus.jpeg
+planets/real/terrestrial/mars.jpeg
+planets/real/terrestrial/..inhabited
+planets/inhabited
+planets/inhabited/earth.jpeg
+planets/inhabited/arrakis2.jpeg
+planets/inhabited/cybertron.jpeg
+planets/inhabited/coruscant.jpeg
+planets/fictional
+planets/fictional/.DS_Store
+planets/fictional/arrakis.jpeg
+planets/fictional/cybertron.jpeg
+planets/fictional/coruscant.jpeg
+
+didorada@MacBook-Pro-de-Didor documents % history
+  285  cp earth.jpeg ../real
+  286  cp earth.jpeg ../earth.jpeg
+  287  cd..
+  288  cd ..
+  289  cp earth.jpeg ../earth.jpeg
+  290  cd ..
+  291  mv earth.jpeg inhabited
+  292  cd real
+  293  rm real
+  294  rm earth.jpeg
+  295  ~documents
+  296  cd ..
+  297  cd ..
+  298  find
+  299  find planets
+  300  history planets
